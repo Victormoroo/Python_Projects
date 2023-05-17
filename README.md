@@ -1,7 +1,7 @@
 <h1 align="center">Python projects</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Victormoroo/Pyhon_Projects/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 </div>
 
